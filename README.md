@@ -6,3 +6,5 @@
 ![](assets/med_vlm_spleen_mask.png)
 ![](assets/2D_UNET_liver_spleen_mask.png)
 
+[![](assets/Unet_arch.png)](https://github.com/ramin-mohammadi/Med-VLM-Image-Segmentation-on-Abdominal-BTCV-Dataset/blob/main/Papers/UNet%20(1).pdf)
+
